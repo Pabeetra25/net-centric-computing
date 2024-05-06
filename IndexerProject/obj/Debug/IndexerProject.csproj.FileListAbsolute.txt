@@ -1,0 +1,8 @@
+C:\Users\DELL\source\C#.NetTutorial\IndexerProject\obj\Debug\IndexerProject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\IndexerProject\obj\Debug\IndexerProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\C#.NetTutorial\IndexerProject\obj\Debug\IndexerProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\IndexerProject\bin\Debug\IndexerProject.exe.config
+C:\Users\DELL\source\C#.NetTutorial\IndexerProject\bin\Debug\IndexerProject.exe
+C:\Users\DELL\source\C#.NetTutorial\IndexerProject\bin\Debug\IndexerProject.pdb
+C:\Users\DELL\source\C#.NetTutorial\IndexerProject\obj\Debug\IndexerProject.exe
+C:\Users\DELL\source\C#.NetTutorial\IndexerProject\obj\Debug\IndexerProject.pdb

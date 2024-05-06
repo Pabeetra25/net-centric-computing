@@ -1,0 +1,8 @@
+C:\Users\DELL\source\C#.NetTutorial\LINQDemo.cs\bin\Debug\LINQDemo.cs.exe.config
+C:\Users\DELL\source\C#.NetTutorial\LINQDemo.cs\bin\Debug\LINQDemo.cs.exe
+C:\Users\DELL\source\C#.NetTutorial\LINQDemo.cs\bin\Debug\LINQDemo.cs.pdb
+C:\Users\DELL\source\C#.NetTutorial\LINQDemo.cs\obj\Debug\LINQDemo.cs.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\LINQDemo.cs\obj\Debug\LINQDemo.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\C#.NetTutorial\LINQDemo.cs\obj\Debug\LINQDemo.cs.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\LINQDemo.cs\obj\Debug\LINQDemo.cs.exe
+C:\Users\DELL\source\C#.NetTutorial\LINQDemo.cs\obj\Debug\LINQDemo.cs.pdb

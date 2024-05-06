@@ -1,0 +1,8 @@
+C:\Users\DELL\source\C#.NetTutorial\CollectionsProjects\bin\Debug\CollectionsProjects.exe.config
+C:\Users\DELL\source\C#.NetTutorial\CollectionsProjects\bin\Debug\CollectionsProjects.exe
+C:\Users\DELL\source\C#.NetTutorial\CollectionsProjects\bin\Debug\CollectionsProjects.pdb
+C:\Users\DELL\source\C#.NetTutorial\CollectionsProjects\obj\Debug\CollectionsProjects.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\CollectionsProjects\obj\Debug\CollectionsProjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\C#.NetTutorial\CollectionsProjects\obj\Debug\CollectionsProjects.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\CollectionsProjects\obj\Debug\CollectionsProjects.exe
+C:\Users\DELL\source\C#.NetTutorial\CollectionsProjects\obj\Debug\CollectionsProjects.pdb

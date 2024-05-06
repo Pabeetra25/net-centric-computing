@@ -1,0 +1,8 @@
+C:\Users\DELL\source\C#.NetTutorial\DelegatesProject\bin\Debug\DelegatesProject.exe.config
+C:\Users\DELL\source\C#.NetTutorial\DelegatesProject\bin\Debug\DelegatesProject.exe
+C:\Users\DELL\source\C#.NetTutorial\DelegatesProject\bin\Debug\DelegatesProject.pdb
+C:\Users\DELL\source\C#.NetTutorial\DelegatesProject\obj\Debug\DelegatesProject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\DelegatesProject\obj\Debug\DelegatesProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\C#.NetTutorial\DelegatesProject\obj\Debug\DelegatesProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\DelegatesProject\obj\Debug\DelegatesProject.exe
+C:\Users\DELL\source\C#.NetTutorial\DelegatesProject\obj\Debug\DelegatesProject.pdb

@@ -1,0 +1,8 @@
+C:\Users\DELL\source\C#.NetTutorial\diffVariables\bin\Debug\diffVariables.exe.config
+C:\Users\DELL\source\C#.NetTutorial\diffVariables\bin\Debug\diffVariables.exe
+C:\Users\DELL\source\C#.NetTutorial\diffVariables\bin\Debug\diffVariables.pdb
+C:\Users\DELL\source\C#.NetTutorial\diffVariables\obj\Debug\diffVariables.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\diffVariables\obj\Debug\diffVariables.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\C#.NetTutorial\diffVariables\obj\Debug\diffVariables.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\diffVariables\obj\Debug\diffVariables.exe
+C:\Users\DELL\source\C#.NetTutorial\diffVariables\obj\Debug\diffVariables.pdb

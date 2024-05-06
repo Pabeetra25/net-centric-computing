@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementAuthorization", "ImplementAuthorization.csproj", "{CAF00AF9-A25B-40E4-9322-B21076E5F768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF00AF9-A25B-40E4-9322-B21076E5F768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF00AF9-A25B-40E4-9322-B21076E5F768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF00AF9-A25B-40E4-9322-B21076E5F768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF00AF9-A25B-40E4-9322-B21076E5F768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB9CF1F1-4DBD-4A1B-87F6-405995D18FC4}
+	EndGlobalSection
+EndGlobal

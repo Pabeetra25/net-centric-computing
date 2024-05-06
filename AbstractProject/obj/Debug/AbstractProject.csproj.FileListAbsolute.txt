@@ -1,0 +1,8 @@
+C:\Users\DELL\source\C#.NetTutorial\AbstractProject\obj\Debug\AbstractProject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\AbstractProject\obj\Debug\AbstractProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\C#.NetTutorial\AbstractProject\obj\Debug\AbstractProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\AbstractProject\bin\Debug\AbstractProject.exe.config
+C:\Users\DELL\source\C#.NetTutorial\AbstractProject\bin\Debug\AbstractProject.exe
+C:\Users\DELL\source\C#.NetTutorial\AbstractProject\bin\Debug\AbstractProject.pdb
+C:\Users\DELL\source\C#.NetTutorial\AbstractProject\obj\Debug\AbstractProject.exe
+C:\Users\DELL\source\C#.NetTutorial\AbstractProject\obj\Debug\AbstractProject.pdb
