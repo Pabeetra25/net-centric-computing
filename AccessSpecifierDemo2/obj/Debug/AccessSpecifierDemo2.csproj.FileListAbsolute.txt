@@ -1,0 +1,12 @@
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\bin\Debug\AccessSpecifierDemo2.exe.config
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\bin\Debug\AccessSpecifierDemo2.exe
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\bin\Debug\AccessSpecifierDemo2.pdb
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\bin\Debug\AccessSpecifierDemo.exe
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\bin\Debug\AccessSpecifierDemo.pdb
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\bin\Debug\AccessSpecifierDemo.exe.config
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\obj\Debug\AccessSpecifierDemo2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\obj\Debug\AccessSpecifierDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\obj\Debug\AccessSpecifierDemo2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\obj\Debug\AccessSpecifierDemo2.csproj.CopyComplete
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\obj\Debug\AccessSpecifierDemo2.exe
+C:\Users\DELL\source\C#.NetTutorial\AccessSpecifierDemo2\obj\Debug\AccessSpecifierDemo2.pdb

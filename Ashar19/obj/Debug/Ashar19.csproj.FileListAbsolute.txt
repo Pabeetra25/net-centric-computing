@@ -1,0 +1,8 @@
+C:\Users\DELL\source\C#.NetTutorial\Ashar19\bin\Debug\Ashar19.exe.config
+C:\Users\DELL\source\C#.NetTutorial\Ashar19\bin\Debug\Ashar19.exe
+C:\Users\DELL\source\C#.NetTutorial\Ashar19\bin\Debug\Ashar19.pdb
+C:\Users\DELL\source\C#.NetTutorial\Ashar19\obj\Debug\Ashar19.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\Ashar19\obj\Debug\Ashar19.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\C#.NetTutorial\Ashar19\obj\Debug\Ashar19.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\Ashar19\obj\Debug\Ashar19.exe
+C:\Users\DELL\source\C#.NetTutorial\Ashar19\obj\Debug\Ashar19.pdb

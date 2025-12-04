@@ -1,0 +1,8 @@
+C:\Users\DELL\source\C#.NetTutorial\authorization\bin\Debug\authorization.exe.config
+C:\Users\DELL\source\C#.NetTutorial\authorization\bin\Debug\authorization.exe
+C:\Users\DELL\source\C#.NetTutorial\authorization\bin\Debug\authorization.pdb
+C:\Users\DELL\source\C#.NetTutorial\authorization\obj\Debug\authorization.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\authorization\obj\Debug\authorization.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\C#.NetTutorial\authorization\obj\Debug\authorization.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\authorization\obj\Debug\authorization.exe
+C:\Users\DELL\source\C#.NetTutorial\authorization\obj\Debug\authorization.pdb

@@ -1,0 +1,8 @@
+C:\Users\DELL\source\C#.NetTutorial\PlayerValidation\obj\Debug\net7.0\PlayerValidation.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\PlayerValidation\obj\Debug\net7.0\PlayerValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\C#.NetTutorial\PlayerValidation\obj\Debug\net7.0\PlayerValidation.AssemblyInfoInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\PlayerValidation\obj\Debug\net7.0\PlayerValidation.AssemblyInfo.cs
+C:\Users\DELL\source\C#.NetTutorial\PlayerValidation\obj\Debug\net7.0\PlayerValidation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\PlayerValidation\obj\Debug\net7.0\PlayerValidation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\C#.NetTutorial\PlayerValidation\obj\Debug\net7.0\PlayerValidation.RazorAssemblyInfo.cache
+C:\Users\DELL\source\C#.NetTutorial\PlayerValidation\obj\Debug\net7.0\PlayerValidation.RazorAssemblyInfo.cs

@@ -1,0 +1,8 @@
+C:\Users\DELL\source\C#.NetTutorial\PropertyInC#\bin\Debug\PropertyInC#.exe.config
+C:\Users\DELL\source\C#.NetTutorial\PropertyInC#\bin\Debug\PropertyInC#.exe
+C:\Users\DELL\source\C#.NetTutorial\PropertyInC#\bin\Debug\PropertyInC#.pdb
+C:\Users\DELL\source\C#.NetTutorial\PropertyInC#\obj\Debug\PropertyInC#.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\PropertyInC#\obj\Debug\PropertyInC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\C#.NetTutorial\PropertyInC#\obj\Debug\PropertyInC#.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\PropertyInC#\obj\Debug\PropertyInC#.exe
+C:\Users\DELL\source\C#.NetTutorial\PropertyInC#\obj\Debug\PropertyInC#.pdb

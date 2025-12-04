@@ -1,0 +1,8 @@
+C:\Users\DELL\source\C#.NetTutorial\Practicals\bin\Debug\Practicals.exe.config
+C:\Users\DELL\source\C#.NetTutorial\Practicals\bin\Debug\Practicals.exe
+C:\Users\DELL\source\C#.NetTutorial\Practicals\bin\Debug\Practicals.pdb
+C:\Users\DELL\source\C#.NetTutorial\Practicals\obj\Debug\Practicals.csproj.AssemblyReference.cache
+C:\Users\DELL\source\C#.NetTutorial\Practicals\obj\Debug\Practicals.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\C#.NetTutorial\Practicals\obj\Debug\Practicals.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\C#.NetTutorial\Practicals\obj\Debug\Practicals.exe
+C:\Users\DELL\source\C#.NetTutorial\Practicals\obj\Debug\Practicals.pdb
